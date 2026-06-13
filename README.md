@@ -1,10 +1,10 @@
 # ScanearlistasPro-
 Scaner para listas M3U
 
-git clone   https://github.com/KannonPro/ScanearlistasPro
+git clone   https://github.com/KannonPro/ScanearlistasPro-
 
 
-CD ScanearlistasPro 
+CD ScanearlistasPro-
 
 ls
 
